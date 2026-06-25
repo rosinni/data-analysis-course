@@ -26,15 +26,14 @@ Aprender a analizar datos no es aprender a programar — es aprender a hacerle l
 
 ## Cómo está organizado cada clase
 
-Cada clase tiene su propia carpeta con tres archivos:
+Cada clase tiene su propia carpeta con 2 archivos:
 
 ```
 clase-XX/
 ├── README.md         ← artículo principal: concepto + desarrollo
-├── notebook.ipynb    ← código ejecutable para experimentar
 └── practica/
-    ├── ejercicios.md ← consignas para practicar
-    └── solucion.md   ← solución (intentá antes de mirar)
+    ├── notebook.ipynb    ← código ejecutable para experimentar y consignas para practicar
+    └── solucion.md       ← solución (intenta antes de mirar)
 ```
 
 ---
