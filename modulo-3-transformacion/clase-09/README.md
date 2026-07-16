@@ -237,6 +237,8 @@ print(f"Filas originales:       {len(df)}")
 print(f"Sin duplicados exactos: {len(df_sin_duplicados)}")
 ```
 
+
+
 Por defecto, `drop_duplicates()` conserva la primera ocurrencia y elimina las siguientes. Si querés conservar la última en cambio, pasás `keep='last'`.
 
 Igual que con `dropna()`, podés aplicarlo solo sobre columnas específicas:
