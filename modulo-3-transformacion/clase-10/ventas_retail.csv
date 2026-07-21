@@ -1,0 +1,501 @@
+ciudad,categoria,vendedor,trimestre,monto,unidades,descuento
+Mendoza,Deportes,Pedro Ruiz,Q2,14078,9,0.0
+Tucumán,Electrónica,Pedro Ruiz,Q2,67768,17,0.1
+Rosario,Alimentos,Pedro Ruiz,Q3,56047,9,0.15
+Tucumán,Hogar,Lucía Paz,Q3,76626,9,0.0
+Tucumán,Hogar,Pedro Ruiz,Q2,62660,1,0.15
+Córdoba,Electrónica,María López,Q2,137997,2,0.1
+Rosario,Deportes,Lucía Paz,Q2,122832,16,0.15
+Rosario,Deportes,María López,Q3,135406,1,0.2
+Rosario,Alimentos,Lucía Paz,Q3,130150,10,0.2
+Tucumán,Electrónica,Carlos Vera,Q1,38320,18,0.15
+Mendoza,Hogar,Luis Gómez,Q1,69881,8,0.0
+Rosario,Deportes,Ana Torres,Q2,95827,11,0.0
+Tucumán,Electrónica,Pedro Ruiz,Q4,107215,2,0.0
+Córdoba,Deportes,Carlos Vera,Q4,139461,8,0.15
+Mendoza,Deportes,Luis Gómez,Q3,149701,8,0.0
+Córdoba,Hogar,Ana Torres,Q3,66550,17,0.1
+Mendoza,Ropa,Sofía Herrera,Q3,29826,15,0.2
+Tucumán,Alimentos,Clara Díaz,Q2,105734,17,0.1
+Buenos Aires,Alimentos,María López,Q4,103511,13,0.0
+Mendoza,Hogar,Sofía Herrera,Q1,16653,19,0.1
+Córdoba,Deportes,Lucía Paz,Q2,86941,5,0.0
+Tucumán,Electrónica,Ana Torres,Q1,38662,12,0.15
+Mendoza,Deportes,Sofía Herrera,Q1,103818,1,0.1
+Buenos Aires,Hogar,Clara Díaz,Q2,100081,5,0.15
+Buenos Aires,Alimentos,Carlos Vera,Q1,41877,8,0.15
+Rosario,Deportes,Ana Torres,Q4,116562,13,0.05
+Rosario,Alimentos,Sofía Herrera,Q1,77715,8,0.0
+Córdoba,Electrónica,María López,Q4,146398,11,0.2
+Mendoza,Alimentos,María López,Q4,115091,1,0.0
+Mendoza,Alimentos,Luis Gómez,Q4,137632,13,0.2
+Rosario,Ropa,Sofía Herrera,Q3,84148,19,0.0
+Mendoza,Ropa,Pedro Ruiz,Q1,88186,3,0.15
+Mendoza,Ropa,Sofía Herrera,Q2,128629,17,0.1
+Buenos Aires,Alimentos,Carlos Vera,Q2,75316,5,0.1
+Rosario,Hogar,Ana Torres,Q1,33380,8,0.05
+Tucumán,Alimentos,Ana Torres,Q3,115198,14,0.2
+Rosario,Hogar,Carlos Vera,Q3,7356,4,0.2
+Tucumán,Hogar,Sofía Herrera,Q4,75326,11,0.2
+Buenos Aires,Ropa,Carlos Vera,Q1,97447,15,0.15
+Córdoba,Deportes,Clara Díaz,Q1,119994,19,0.2
+Mendoza,Electrónica,Lucía Paz,Q2,25049,7,0.1
+Buenos Aires,Ropa,Carlos Vera,Q1,110361,19,0.15
+Mendoza,Ropa,María López,Q3,21082,19,0.0
+Córdoba,Deportes,Carlos Vera,Q1,5661,11,0.2
+Córdoba,Electrónica,Ana Torres,Q2,7920,5,0.2
+Buenos Aires,Alimentos,María López,Q4,84561,5,0.0
+Córdoba,Alimentos,Ana Torres,Q2,13946,8,0.2
+Tucumán,Ropa,Luis Gómez,Q2,21309,10,0.0
+Córdoba,Electrónica,Pedro Ruiz,Q4,60230,6,0.15
+Mendoza,Ropa,Ana Torres,Q2,116822,15,0.1
+Mendoza,Hogar,María López,Q2,117340,16,0.0
+Mendoza,Ropa,Luis Gómez,Q1,64321,17,0.05
+Mendoza,Ropa,Ana Torres,Q1,137028,8,0.0
+Tucumán,Alimentos,Clara Díaz,Q4,79131,8,0.2
+Rosario,Alimentos,Carlos Vera,Q1,30963,9,0.15
+Buenos Aires,Alimentos,Pedro Ruiz,Q1,106757,2,0.15
+Mendoza,Hogar,Ana Torres,Q2,104259,15,0.0
+Córdoba,Alimentos,Luis Gómez,Q3,44063,18,0.1
+Mendoza,Electrónica,Clara Díaz,Q1,119225,3,0.05
+Córdoba,Deportes,Sofía Herrera,Q3,121400,17,0.15
+Córdoba,Electrónica,Luis Gómez,Q1,85818,4,0.2
+Mendoza,Electrónica,Carlos Vera,Q1,9703,4,0.2
+Tucumán,Alimentos,Luis Gómez,Q4,77099,14,0.1
+Córdoba,Deportes,Clara Díaz,Q4,36585,9,0.15
+Córdoba,Deportes,Luis Gómez,Q4,48585,9,0.0
+Mendoza,Deportes,Clara Díaz,Q3,31958,18,0.2
+Córdoba,Hogar,Ana Torres,Q2,31017,10,0.1
+Córdoba,Alimentos,Lucía Paz,Q1,129677,4,0.15
+Mendoza,Deportes,Clara Díaz,Q1,148273,12,0.15
+Mendoza,Hogar,Clara Díaz,Q1,34426,8,0.15
+Buenos Aires,Ropa,Pedro Ruiz,Q3,22778,2,0.15
+Tucumán,Ropa,Clara Díaz,Q4,47229,13,0.15
+Tucumán,Hogar,Clara Díaz,Q2,91652,16,0.2
+Córdoba,Hogar,Sofía Herrera,Q3,133267,2,0.1
+Tucumán,Alimentos,Lucía Paz,Q4,131503,11,0.15
+Córdoba,Alimentos,Ana Torres,Q3,89878,10,0.05
+Buenos Aires,Ropa,Carlos Vera,Q2,62056,15,0.05
+Mendoza,Deportes,Pedro Ruiz,Q4,24975,17,0.1
+Mendoza,Ropa,Sofía Herrera,Q3,147633,8,0.0
+Mendoza,Deportes,María López,Q2,93397,18,0.0
+Tucumán,Deportes,Lucía Paz,Q1,38142,9,0.0
+Buenos Aires,Alimentos,Ana Torres,Q2,31916,8,0.05
+Tucumán,Electrónica,Ana Torres,Q1,69324,14,0.0
+Tucumán,Electrónica,María López,Q3,130932,18,0.2
+Buenos Aires,Hogar,Carlos Vera,Q4,140720,12,0.15
+Buenos Aires,Alimentos,Clara Díaz,Q4,101059,19,0.05
+Buenos Aires,Deportes,Sofía Herrera,Q3,103317,14,0.1
+Buenos Aires,Electrónica,Luis Gómez,Q4,40046,17,0.1
+Mendoza,Deportes,Pedro Ruiz,Q4,106459,3,0.15
+Rosario,Electrónica,Luis Gómez,Q1,50893,7,0.05
+Rosario,Electrónica,María López,Q3,106520,17,0.0
+Buenos Aires,Electrónica,Ana Torres,Q2,130818,12,0.0
+Rosario,Alimentos,Carlos Vera,Q1,66272,9,0.2
+Rosario,Ropa,Ana Torres,Q3,72649,15,0.2
+Buenos Aires,Deportes,Pedro Ruiz,Q1,69674,18,0.0
+Rosario,Alimentos,Ana Torres,Q2,149832,13,0.1
+Tucumán,Alimentos,Ana Torres,Q2,91475,8,0.1
+Córdoba,Alimentos,Pedro Ruiz,Q3,66367,14,0.2
+Córdoba,Alimentos,Sofía Herrera,Q2,148660,8,0.15
+Buenos Aires,Alimentos,Sofía Herrera,Q1,126750,14,0.0
+Mendoza,Hogar,Pedro Ruiz,Q2,123154,7,0.2
+Buenos Aires,Deportes,Carlos Vera,Q1,49738,12,0.2
+Mendoza,Alimentos,María López,Q1,38397,11,0.0
+Córdoba,Deportes,Lucía Paz,Q2,87189,11,0.0
+Buenos Aires,Hogar,Ana Torres,Q3,81367,13,0.1
+Tucumán,Hogar,Carlos Vera,Q4,125585,18,0.15
+Rosario,Deportes,Ana Torres,Q2,81619,2,0.15
+Mendoza,Electrónica,Lucía Paz,Q1,116453,15,0.0
+Rosario,Ropa,María López,Q1,24816,18,0.05
+Rosario,Electrónica,Sofía Herrera,Q2,142348,15,0.2
+Buenos Aires,Electrónica,Carlos Vera,Q3,84530,19,0.2
+Rosario,Electrónica,Clara Díaz,Q3,113856,12,0.0
+Tucumán,Alimentos,Clara Díaz,Q1,76635,13,0.05
+Rosario,Hogar,Lucía Paz,Q1,112803,11,0.1
+Buenos Aires,Electrónica,Clara Díaz,Q3,40946,5,0.0
+Tucumán,Hogar,Sofía Herrera,Q4,60204,1,0.0
+Córdoba,Deportes,Lucía Paz,Q2,20563,3,0.2
+Rosario,Ropa,Sofía Herrera,Q1,97324,19,0.0
+Buenos Aires,Deportes,María López,Q1,14847,7,0.0
+Córdoba,Deportes,Ana Torres,Q3,31155,12,0.0
+Córdoba,Alimentos,María López,Q2,84671,15,0.2
+Mendoza,Ropa,María López,Q3,121891,5,0.1
+Tucumán,Deportes,Sofía Herrera,Q2,88310,15,0.1
+Rosario,Deportes,Lucía Paz,Q2,136691,8,0.0
+Buenos Aires,Ropa,Lucía Paz,Q2,39707,10,0.2
+Mendoza,Ropa,Clara Díaz,Q1,86537,16,0.1
+Tucumán,Deportes,Luis Gómez,Q4,96155,8,0.1
+Mendoza,Ropa,Ana Torres,Q3,5281,1,0.1
+Tucumán,Deportes,Sofía Herrera,Q4,137130,12,0.2
+Tucumán,Deportes,Clara Díaz,Q3,81260,5,0.2
+Rosario,Alimentos,Carlos Vera,Q2,145272,3,0.0
+Tucumán,Electrónica,Luis Gómez,Q1,69178,1,0.15
+Mendoza,Deportes,Luis Gómez,Q4,38997,4,0.1
+Tucumán,Hogar,Sofía Herrera,Q1,124273,8,0.15
+Rosario,Electrónica,Pedro Ruiz,Q3,137311,3,0.2
+Rosario,Electrónica,Ana Torres,Q1,131945,10,0.2
+Mendoza,Electrónica,Luis Gómez,Q1,50272,2,0.2
+Córdoba,Alimentos,Sofía Herrera,Q4,94393,11,0.15
+Córdoba,Deportes,Sofía Herrera,Q2,66212,10,0.2
+Tucumán,Alimentos,Clara Díaz,Q1,125030,14,0.0
+Buenos Aires,Deportes,Carlos Vera,Q2,61503,7,0.2
+Tucumán,Alimentos,Pedro Ruiz,Q3,142710,2,0.05
+Mendoza,Alimentos,Ana Torres,Q1,11570,9,0.15
+Mendoza,Hogar,Lucía Paz,Q4,73785,16,0.05
+Mendoza,Alimentos,María López,Q3,14110,13,0.2
+Mendoza,Ropa,Carlos Vera,Q3,84141,9,0.0
+Mendoza,Hogar,Carlos Vera,Q4,17115,4,0.1
+Rosario,Alimentos,Clara Díaz,Q1,44062,10,0.2
+Córdoba,Electrónica,Lucía Paz,Q1,27911,12,0.0
+Mendoza,Ropa,Luis Gómez,Q3,109061,17,0.15
+Buenos Aires,Ropa,Luis Gómez,Q1,37556,14,0.05
+Buenos Aires,Ropa,Clara Díaz,Q2,133335,14,0.05
+Buenos Aires,Hogar,Sofía Herrera,Q4,6969,2,0.05
+Buenos Aires,Alimentos,Luis Gómez,Q2,48753,11,0.15
+Rosario,Alimentos,Pedro Ruiz,Q1,140542,16,0.0
+Buenos Aires,Electrónica,Ana Torres,Q3,126863,19,0.15
+Mendoza,Electrónica,Carlos Vera,Q4,15225,6,0.05
+Tucumán,Ropa,Carlos Vera,Q1,128008,19,0.2
+Buenos Aires,Electrónica,Pedro Ruiz,Q1,110823,5,0.1
+Rosario,Hogar,Lucía Paz,Q3,18669,4,0.15
+Rosario,Alimentos,Luis Gómez,Q3,129398,15,0.15
+Buenos Aires,Ropa,Carlos Vera,Q2,115677,4,0.0
+Tucumán,Electrónica,María López,Q4,53320,10,0.0
+Buenos Aires,Hogar,Lucía Paz,Q4,130354,3,0.15
+Rosario,Hogar,Ana Torres,Q3,93009,5,0.05
+Córdoba,Electrónica,Ana Torres,Q2,33625,6,0.1
+Mendoza,Alimentos,Carlos Vera,Q4,29089,8,0.0
+Rosario,Electrónica,Clara Díaz,Q3,41487,7,0.05
+Buenos Aires,Ropa,Lucía Paz,Q1,115448,10,0.2
+Mendoza,Electrónica,Carlos Vera,Q4,55138,6,0.0
+Buenos Aires,Hogar,Clara Díaz,Q2,59061,14,0.05
+Buenos Aires,Electrónica,Carlos Vera,Q2,106376,4,0.05
+Córdoba,Alimentos,María López,Q2,84134,13,0.1
+Mendoza,Deportes,Lucía Paz,Q1,52055,17,0.1
+Mendoza,Electrónica,Sofía Herrera,Q4,24508,7,0.2
+Córdoba,Alimentos,Ana Torres,Q4,115169,4,0.05
+Rosario,Alimentos,Carlos Vera,Q1,13125,14,0.05
+Buenos Aires,Hogar,María López,Q4,41059,3,0.1
+Tucumán,Alimentos,Clara Díaz,Q1,108409,5,0.0
+Buenos Aires,Alimentos,Clara Díaz,Q1,10704,16,0.0
+Buenos Aires,Alimentos,Ana Torres,Q1,116279,4,0.15
+Rosario,Alimentos,Pedro Ruiz,Q2,123516,2,0.1
+Buenos Aires,Ropa,Carlos Vera,Q4,119044,18,0.15
+Córdoba,Ropa,Lucía Paz,Q1,34165,19,0.1
+Córdoba,Hogar,Luis Gómez,Q4,72203,19,0.2
+Mendoza,Electrónica,Clara Díaz,Q2,9114,17,0.05
+Tucumán,Alimentos,Lucía Paz,Q1,41321,14,0.2
+Buenos Aires,Electrónica,Lucía Paz,Q3,78297,19,0.1
+Buenos Aires,Electrónica,Sofía Herrera,Q2,101652,13,0.05
+Rosario,Hogar,Lucía Paz,Q3,104304,12,0.0
+Córdoba,Alimentos,Lucía Paz,Q4,22772,6,0.0
+Tucumán,Alimentos,Sofía Herrera,Q4,108754,4,0.15
+Mendoza,Deportes,Clara Díaz,Q2,8712,19,0.1
+Córdoba,Electrónica,Lucía Paz,Q4,137439,16,0.1
+Mendoza,Electrónica,Pedro Ruiz,Q3,120142,13,0.0
+Rosario,Ropa,Pedro Ruiz,Q1,96736,4,0.2
+Rosario,Deportes,María López,Q1,56924,17,0.05
+Buenos Aires,Ropa,Sofía Herrera,Q1,8726,1,0.2
+Tucumán,Ropa,María López,Q2,94152,18,0.2
+Mendoza,Ropa,Sofía Herrera,Q4,32723,17,0.0
+Córdoba,Hogar,Carlos Vera,Q3,131969,15,0.0
+Rosario,Hogar,Carlos Vera,Q4,105494,11,0.0
+Buenos Aires,Ropa,Lucía Paz,Q4,145180,13,0.15
+Buenos Aires,Deportes,Luis Gómez,Q4,40643,1,0.2
+Mendoza,Electrónica,Carlos Vera,Q1,108896,17,0.1
+Rosario,Deportes,Luis Gómez,Q3,144999,6,0.05
+Tucumán,Alimentos,Carlos Vera,Q3,98680,4,0.15
+Rosario,Hogar,Ana Torres,Q4,101546,16,0.1
+Mendoza,Electrónica,Carlos Vera,Q1,84973,15,0.2
+Mendoza,Electrónica,María López,Q1,68449,15,0.0
+Rosario,Alimentos,Clara Díaz,Q3,114834,6,0.2
+Mendoza,Alimentos,Lucía Paz,Q1,30537,15,0.05
+Rosario,Ropa,María López,Q1,82576,14,0.15
+Córdoba,Hogar,Clara Díaz,Q1,112522,11,0.15
+Rosario,Hogar,Pedro Ruiz,Q2,27612,7,0.05
+Rosario,Deportes,María López,Q4,11471,9,0.1
+Mendoza,Ropa,Pedro Ruiz,Q3,36348,16,0.1
+Mendoza,Ropa,Luis Gómez,Q3,6177,5,0.15
+Buenos Aires,Ropa,Luis Gómez,Q2,140832,10,0.15
+Buenos Aires,Ropa,Ana Torres,Q4,37779,18,0.0
+Córdoba,Hogar,Carlos Vera,Q3,26636,3,0.1
+Buenos Aires,Hogar,María López,Q1,86889,13,0.05
+Rosario,Ropa,Pedro Ruiz,Q3,58551,11,0.1
+Mendoza,Deportes,Clara Díaz,Q1,147628,17,0.0
+Buenos Aires,Electrónica,Luis Gómez,Q2,147635,13,0.15
+Buenos Aires,Electrónica,Carlos Vera,Q1,51819,6,0.15
+Córdoba,Deportes,Luis Gómez,Q3,78770,17,0.0
+Córdoba,Ropa,Clara Díaz,Q3,83714,13,0.05
+Rosario,Hogar,Carlos Vera,Q3,29596,19,0.15
+Mendoza,Electrónica,Carlos Vera,Q2,69106,19,0.2
+Córdoba,Alimentos,Pedro Ruiz,Q2,64182,10,0.15
+Buenos Aires,Alimentos,Pedro Ruiz,Q4,92163,3,0.2
+Mendoza,Deportes,María López,Q3,44310,14,0.0
+Mendoza,Ropa,María López,Q1,61088,19,0.0
+Buenos Aires,Electrónica,Sofía Herrera,Q2,133803,5,0.15
+Córdoba,Ropa,Lucía Paz,Q3,144978,5,0.1
+Buenos Aires,Electrónica,Sofía Herrera,Q3,41914,17,0.2
+Mendoza,Deportes,Ana Torres,Q2,115350,10,0.05
+Tucumán,Deportes,Luis Gómez,Q4,50379,5,0.15
+Tucumán,Alimentos,María López,Q2,51413,4,0.05
+Rosario,Ropa,Pedro Ruiz,Q2,142084,6,0.15
+Buenos Aires,Alimentos,Clara Díaz,Q1,12151,4,0.1
+Buenos Aires,Ropa,Pedro Ruiz,Q1,62716,7,0.1
+Rosario,Alimentos,Luis Gómez,Q4,98747,7,0.1
+Rosario,Hogar,Sofía Herrera,Q3,149539,18,0.1
+Rosario,Hogar,Pedro Ruiz,Q2,126999,3,0.0
+Mendoza,Hogar,Lucía Paz,Q4,119793,1,0.0
+Buenos Aires,Hogar,Ana Torres,Q1,113177,4,0.2
+Mendoza,Electrónica,Luis Gómez,Q2,17289,6,0.05
+Rosario,Hogar,Sofía Herrera,Q3,91365,9,0.15
+Buenos Aires,Deportes,Lucía Paz,Q1,119014,14,0.15
+Mendoza,Deportes,Clara Díaz,Q1,77588,12,0.0
+Mendoza,Electrónica,Sofía Herrera,Q1,68646,4,0.15
+Rosario,Hogar,Carlos Vera,Q4,8654,12,0.0
+Buenos Aires,Hogar,Lucía Paz,Q3,23743,10,0.2
+Rosario,Hogar,Lucía Paz,Q2,53368,7,0.05
+Buenos Aires,Alimentos,Ana Torres,Q4,142513,3,0.2
+Tucumán,Ropa,Luis Gómez,Q4,124735,14,0.1
+Córdoba,Alimentos,Clara Díaz,Q4,124891,10,0.1
+Córdoba,Ropa,Ana Torres,Q1,112971,16,0.1
+Córdoba,Hogar,Sofía Herrera,Q3,17149,16,0.2
+Rosario,Hogar,Ana Torres,Q4,105102,10,0.15
+Tucumán,Alimentos,Lucía Paz,Q2,64189,13,0.05
+Buenos Aires,Alimentos,Luis Gómez,Q3,76031,6,0.1
+Mendoza,Ropa,María López,Q2,47668,12,0.1
+Buenos Aires,Deportes,Ana Torres,Q3,149745,9,0.1
+Mendoza,Ropa,Carlos Vera,Q2,93204,13,0.05
+Buenos Aires,Alimentos,Ana Torres,Q1,145507,4,0.1
+Tucumán,Alimentos,Sofía Herrera,Q4,42384,11,0.05
+Mendoza,Electrónica,Sofía Herrera,Q2,86929,18,0.1
+Rosario,Alimentos,Clara Díaz,Q3,132959,11,0.2
+Buenos Aires,Electrónica,Sofía Herrera,Q4,81153,4,0.2
+Buenos Aires,Deportes,Pedro Ruiz,Q4,80388,18,0.05
+Mendoza,Ropa,Luis Gómez,Q3,36401,1,0.2
+Rosario,Ropa,Luis Gómez,Q2,124503,7,0.05
+Rosario,Electrónica,María López,Q1,132834,6,0.2
+Tucumán,Ropa,María López,Q1,39084,15,0.2
+Rosario,Alimentos,Luis Gómez,Q2,115641,18,0.05
+Rosario,Hogar,Carlos Vera,Q4,110111,11,0.15
+Rosario,Electrónica,María López,Q4,143299,15,0.2
+Córdoba,Ropa,Clara Díaz,Q4,41041,16,0.1
+Tucumán,Electrónica,Sofía Herrera,Q4,93920,7,0.15
+Buenos Aires,Electrónica,Luis Gómez,Q2,70681,10,0.05
+Mendoza,Hogar,Lucía Paz,Q4,86571,12,0.15
+Buenos Aires,Alimentos,María López,Q3,132556,14,0.0
+Tucumán,Electrónica,Luis Gómez,Q4,31160,5,0.0
+Mendoza,Ropa,Pedro Ruiz,Q1,22633,18,0.2
+Tucumán,Deportes,Ana Torres,Q4,22014,5,0.2
+Rosario,Electrónica,Sofía Herrera,Q2,85532,3,0.1
+Mendoza,Electrónica,Luis Gómez,Q1,54104,5,0.15
+Rosario,Hogar,Ana Torres,Q2,82231,17,0.0
+Buenos Aires,Alimentos,María López,Q2,73388,19,0.2
+Buenos Aires,Deportes,Ana Torres,Q1,21014,19,0.15
+Mendoza,Ropa,Sofía Herrera,Q2,97578,12,0.2
+Mendoza,Deportes,Luis Gómez,Q2,45390,9,0.2
+Tucumán,Ropa,Pedro Ruiz,Q4,28711,1,0.0
+Tucumán,Alimentos,Carlos Vera,Q3,96658,18,0.0
+Rosario,Ropa,María López,Q2,62993,4,0.2
+Mendoza,Hogar,Luis Gómez,Q2,12421,10,0.05
+Buenos Aires,Hogar,Sofía Herrera,Q2,22727,7,0.2
+Tucumán,Hogar,María López,Q4,117418,1,0.2
+Tucumán,Hogar,Clara Díaz,Q3,9358,17,0.1
+Buenos Aires,Deportes,Ana Torres,Q1,70108,2,0.1
+Tucumán,Alimentos,Carlos Vera,Q4,99018,11,0.1
+Rosario,Ropa,Sofía Herrera,Q4,129457,9,0.05
+Mendoza,Ropa,Clara Díaz,Q3,36910,7,0.05
+Buenos Aires,Hogar,Lucía Paz,Q3,131888,17,0.2
+Mendoza,Hogar,Luis Gómez,Q4,60754,17,0.1
+Tucumán,Electrónica,Pedro Ruiz,Q1,114847,2,0.05
+Tucumán,Alimentos,María López,Q4,43467,6,0.0
+Buenos Aires,Deportes,Ana Torres,Q3,38893,14,0.2
+Rosario,Ropa,María López,Q1,81329,6,0.15
+Córdoba,Electrónica,Carlos Vera,Q3,36007,2,0.2
+Buenos Aires,Electrónica,Luis Gómez,Q1,59253,1,0.15
+Córdoba,Ropa,María López,Q2,17323,10,0.1
+Córdoba,Deportes,Ana Torres,Q3,116335,5,0.15
+Rosario,Electrónica,Luis Gómez,Q3,117356,2,0.1
+Córdoba,Electrónica,María López,Q4,115944,16,0.0
+Córdoba,Alimentos,Pedro Ruiz,Q3,21456,2,0.15
+Rosario,Deportes,Sofía Herrera,Q3,36367,10,0.2
+Córdoba,Electrónica,Luis Gómez,Q2,59624,2,0.1
+Córdoba,Deportes,Sofía Herrera,Q3,146178,16,0.2
+Córdoba,Ropa,Lucía Paz,Q2,73008,16,0.05
+Buenos Aires,Hogar,Luis Gómez,Q2,130926,19,0.1
+Buenos Aires,Electrónica,Pedro Ruiz,Q2,120395,7,0.15
+Buenos Aires,Alimentos,Sofía Herrera,Q2,121492,12,0.1
+Rosario,Ropa,Clara Díaz,Q1,77240,15,0.2
+Tucumán,Deportes,Ana Torres,Q4,69315,8,0.0
+Córdoba,Ropa,Clara Díaz,Q1,15756,6,0.1
+Córdoba,Electrónica,María López,Q3,41378,10,0.15
+Rosario,Deportes,Pedro Ruiz,Q1,140327,3,0.05
+Córdoba,Hogar,Clara Díaz,Q1,130703,19,0.0
+Buenos Aires,Ropa,Luis Gómez,Q3,61549,17,0.05
+Tucumán,Electrónica,María López,Q3,78794,7,0.1
+Mendoza,Alimentos,María López,Q3,50113,4,0.2
+Córdoba,Deportes,Clara Díaz,Q1,79069,14,0.2
+Buenos Aires,Ropa,Lucía Paz,Q1,141321,15,0.15
+Mendoza,Ropa,Clara Díaz,Q3,130541,8,0.2
+Tucumán,Hogar,Lucía Paz,Q4,14686,15,0.0
+Mendoza,Hogar,Pedro Ruiz,Q4,58363,14,0.2
+Buenos Aires,Alimentos,Ana Torres,Q2,102543,9,0.15
+Mendoza,Alimentos,Clara Díaz,Q3,136733,8,0.1
+Rosario,Electrónica,Carlos Vera,Q2,100673,17,0.1
+Mendoza,Electrónica,Lucía Paz,Q4,47828,2,0.2
+Córdoba,Alimentos,Clara Díaz,Q2,53604,3,0.05
+Córdoba,Alimentos,Sofía Herrera,Q3,15526,8,0.1
+Rosario,Deportes,Luis Gómez,Q3,73910,12,0.2
+Buenos Aires,Hogar,Carlos Vera,Q3,30592,1,0.15
+Córdoba,Electrónica,Carlos Vera,Q1,33982,10,0.2
+Tucumán,Hogar,Lucía Paz,Q2,5207,3,0.1
+Córdoba,Hogar,Sofía Herrera,Q4,93733,6,0.15
+Córdoba,Alimentos,Sofía Herrera,Q4,129982,7,0.2
+Buenos Aires,Deportes,María López,Q4,73619,18,0.0
+Mendoza,Ropa,Lucía Paz,Q1,51479,11,0.15
+Córdoba,Deportes,Ana Torres,Q1,146826,19,0.0
+Rosario,Deportes,Luis Gómez,Q3,86437,5,0.05
+Mendoza,Hogar,Pedro Ruiz,Q4,103540,19,0.15
+Tucumán,Deportes,Carlos Vera,Q1,77982,11,0.0
+Buenos Aires,Electrónica,Pedro Ruiz,Q3,107747,12,0.1
+Tucumán,Hogar,Clara Díaz,Q4,53231,10,0.1
+Mendoza,Electrónica,Clara Díaz,Q2,34301,8,0.05
+Mendoza,Ropa,Pedro Ruiz,Q3,23752,9,0.15
+Mendoza,Hogar,Clara Díaz,Q1,103452,4,0.15
+Tucumán,Ropa,Ana Torres,Q1,149467,5,0.15
+Mendoza,Hogar,Sofía Herrera,Q3,126237,8,0.05
+Tucumán,Alimentos,Clara Díaz,Q3,61273,9,0.15
+Mendoza,Deportes,María López,Q1,96878,15,0.1
+Rosario,Alimentos,Clara Díaz,Q2,9895,15,0.0
+Mendoza,Ropa,Luis Gómez,Q4,124968,16,0.1
+Tucumán,Deportes,Ana Torres,Q2,120700,14,0.1
+Córdoba,Hogar,Luis Gómez,Q3,81559,8,0.0
+Mendoza,Deportes,Luis Gómez,Q2,15699,18,0.1
+Córdoba,Electrónica,María López,Q1,14715,10,0.05
+Rosario,Deportes,Ana Torres,Q3,24169,6,0.0
+Buenos Aires,Electrónica,Ana Torres,Q4,123413,12,0.1
+Rosario,Deportes,Lucía Paz,Q1,124264,2,0.2
+Mendoza,Electrónica,Ana Torres,Q1,10782,7,0.1
+Córdoba,Ropa,Ana Torres,Q4,129481,16,0.05
+Córdoba,Alimentos,Ana Torres,Q4,40585,3,0.15
+Tucumán,Hogar,María López,Q2,35682,13,0.1
+Córdoba,Deportes,Clara Díaz,Q3,134992,3,0.15
+Tucumán,Alimentos,Lucía Paz,Q4,89416,18,0.2
+Buenos Aires,Hogar,Luis Gómez,Q4,132810,11,0.1
+Mendoza,Hogar,Ana Torres,Q3,43067,8,0.0
+Tucumán,Electrónica,Carlos Vera,Q4,23073,6,0.15
+Buenos Aires,Ropa,Clara Díaz,Q4,41035,1,0.2
+Córdoba,Ropa,Clara Díaz,Q2,95373,1,0.0
+Córdoba,Alimentos,Luis Gómez,Q1,88362,8,0.0
+Buenos Aires,Ropa,María López,Q1,95517,5,0.0
+Córdoba,Deportes,Pedro Ruiz,Q1,70450,16,0.0
+Buenos Aires,Ropa,Pedro Ruiz,Q1,15382,11,0.1
+Tucumán,Alimentos,Clara Díaz,Q4,140509,5,0.1
+Tucumán,Ropa,Sofía Herrera,Q3,66929,4,0.1
+Buenos Aires,Deportes,Sofía Herrera,Q3,103864,6,0.2
+Tucumán,Electrónica,Luis Gómez,Q2,148401,14,0.2
+Tucumán,Alimentos,Pedro Ruiz,Q2,30169,19,0.2
+Tucumán,Electrónica,Clara Díaz,Q4,92468,9,0.05
+Rosario,Electrónica,María López,Q3,39594,12,0.2
+Mendoza,Electrónica,Pedro Ruiz,Q3,50033,11,0.1
+Córdoba,Hogar,Clara Díaz,Q1,68133,14,0.1
+Rosario,Hogar,Clara Díaz,Q4,78861,16,0.05
+Tucumán,Electrónica,Ana Torres,Q4,36750,1,0.05
+Buenos Aires,Alimentos,María López,Q1,45461,13,0.2
+Tucumán,Deportes,Ana Torres,Q4,83222,13,0.15
+Mendoza,Deportes,Luis Gómez,Q4,117020,2,0.05
+Tucumán,Ropa,Ana Torres,Q2,29226,4,0.0
+Buenos Aires,Alimentos,Carlos Vera,Q3,11721,6,0.1
+Mendoza,Hogar,Ana Torres,Q4,25609,5,0.0
+Tucumán,Electrónica,Carlos Vera,Q2,135513,3,0.1
+Mendoza,Ropa,Pedro Ruiz,Q3,109211,1,0.1
+Córdoba,Deportes,Sofía Herrera,Q1,141728,4,0.05
+Córdoba,Hogar,Lucía Paz,Q2,129865,2,0.05
+Tucumán,Hogar,Lucía Paz,Q2,79520,5,0.0
+Mendoza,Electrónica,Clara Díaz,Q3,69309,3,0.1
+Buenos Aires,Deportes,Lucía Paz,Q1,34984,9,0.0
+Tucumán,Alimentos,Carlos Vera,Q2,123947,6,0.15
+Córdoba,Hogar,María López,Q4,10901,18,0.0
+Córdoba,Electrónica,Ana Torres,Q4,36055,6,0.2
+Tucumán,Alimentos,Carlos Vera,Q4,119099,19,0.0
+Mendoza,Deportes,María López,Q1,16138,12,0.2
+Córdoba,Hogar,Sofía Herrera,Q2,28429,11,0.2
+Mendoza,Alimentos,Lucía Paz,Q4,55200,2,0.2
+Córdoba,Alimentos,Sofía Herrera,Q1,106268,15,0.15
+Córdoba,Alimentos,Lucía Paz,Q4,22347,12,0.0
+Rosario,Hogar,Ana Torres,Q3,36822,12,0.0
+Córdoba,Hogar,Luis Gómez,Q2,45108,9,0.15
+Buenos Aires,Ropa,Ana Torres,Q2,133955,2,0.1
+Tucumán,Deportes,Pedro Ruiz,Q1,12967,3,0.05
+Tucumán,Electrónica,Carlos Vera,Q1,115719,12,0.0
+Mendoza,Alimentos,Clara Díaz,Q2,16871,16,0.05
+Córdoba,Ropa,Luis Gómez,Q4,33179,1,0.15
+Buenos Aires,Electrónica,Ana Torres,Q4,60099,3,0.1
+Mendoza,Ropa,María López,Q3,40262,2,0.1
+Rosario,Hogar,Luis Gómez,Q4,83213,9,0.1
+Mendoza,Alimentos,Carlos Vera,Q1,122407,19,0.15
+Mendoza,Electrónica,Lucía Paz,Q1,91269,15,0.2
+Córdoba,Electrónica,Luis Gómez,Q4,65545,18,0.2
+Rosario,Electrónica,Lucía Paz,Q1,44922,11,0.05
+Mendoza,Electrónica,Carlos Vera,Q2,47913,16,0.2
+Buenos Aires,Electrónica,Ana Torres,Q2,102033,17,0.2
+Buenos Aires,Ropa,Carlos Vera,Q4,109792,5,0.1
+Tucumán,Alimentos,Luis Gómez,Q2,124863,12,0.1
+Rosario,Hogar,María López,Q2,49936,11,0.05
+Rosario,Hogar,Sofía Herrera,Q3,33141,15,0.0
+Tucumán,Hogar,Luis Gómez,Q3,145146,3,0.05
+Mendoza,Hogar,Carlos Vera,Q2,142478,1,0.05
+Rosario,Ropa,Sofía Herrera,Q4,102359,16,0.15
+Buenos Aires,Deportes,Carlos Vera,Q3,128279,2,0.15
+Buenos Aires,Alimentos,María López,Q1,46568,2,0.05
+Córdoba,Electrónica,Carlos Vera,Q1,102539,3,0.05
+Rosario,Deportes,Ana Torres,Q1,51851,8,0.05
+Mendoza,Hogar,Clara Díaz,Q4,59823,15,0.2
+Tucumán,Deportes,Lucía Paz,Q2,28312,7,0.15
+Tucumán,Alimentos,Lucía Paz,Q1,103723,6,0.05
+Mendoza,Electrónica,Luis Gómez,Q4,17411,9,0.1
+Córdoba,Electrónica,Clara Díaz,Q3,62009,1,0.1
+Tucumán,Alimentos,Carlos Vera,Q2,37371,8,0.2
+Rosario,Alimentos,María López,Q3,62022,3,0.2
+Córdoba,Hogar,Luis Gómez,Q4,76229,4,0.0
+Rosario,Electrónica,Carlos Vera,Q1,104071,15,0.0
+Buenos Aires,Deportes,Sofía Herrera,Q1,101774,6,0.0
+Córdoba,Ropa,Pedro Ruiz,Q4,31715,15,0.2
+Tucumán,Ropa,Carlos Vera,Q1,32605,3,0.2
+Córdoba,Alimentos,Clara Díaz,Q2,104853,14,0.2
+Córdoba,Hogar,Luis Gómez,Q4,36174,14,0.1
+Córdoba,Ropa,Clara Díaz,Q3,146028,4,0.2
+Córdoba,Electrónica,Luis Gómez,Q4,81373,12,0.1
+Rosario,Alimentos,Carlos Vera,Q2,74252,17,0.0
+Buenos Aires,Deportes,Ana Torres,Q2,75017,7,0.0
+Mendoza,Alimentos,Sofía Herrera,Q4,68037,9,0.0
+Córdoba,Deportes,Carlos Vera,Q4,94818,3,0.05
+Tucumán,Alimentos,Lucía Paz,Q1,11548,13,0.05
+Córdoba,Alimentos,Clara Díaz,Q2,121981,15,0.15
+Tucumán,Alimentos,Pedro Ruiz,Q4,29022,18,0.15
+Rosario,Deportes,Pedro Ruiz,Q4,111297,19,0.15
+Tucumán,Deportes,María López,Q2,141614,1,0.05
+Mendoza,Alimentos,Luis Gómez,Q4,65428,6,0.05
+Buenos Aires,Ropa,Clara Díaz,Q1,64353,2,0.15
+Tucumán,Hogar,María López,Q2,118132,14,0.15
+Tucumán,Hogar,Clara Díaz,Q1,21052,6,0.2
+Buenos Aires,Hogar,Lucía Paz,Q1,105689,14,0.15
+Mendoza,Deportes,Luis Gómez,Q1,136743,4,0.2
+Córdoba,Deportes,Carlos Vera,Q1,5163,8,0.1
+Tucumán,Ropa,Carlos Vera,Q2,46424,3,0.05
+Buenos Aires,Hogar,Pedro Ruiz,Q1,146706,19,0.15
+Rosario,Hogar,Carlos Vera,Q1,140870,14,0.05
+Buenos Aires,Alimentos,Carlos Vera,Q4,27420,17,0.05
+Rosario,Deportes,Lucía Paz,Q2,125575,8,0.05
+Mendoza,Hogar,Ana Torres,Q2,34300,14,0.1
+Córdoba,Ropa,Pedro Ruiz,Q3,94881,6,0.0
+Buenos Aires,Ropa,María López,Q2,15749,16,0.15
+Tucumán,Hogar,Sofía Herrera,Q2,109131,19,0.0
+Mendoza,Deportes,Ana Torres,Q3,133563,14,0.0
+Buenos Aires,Ropa,María López,Q2,42487,19,0.0
+Tucumán,Alimentos,Luis Gómez,Q2,26223,3,0.05
+Buenos Aires,Ropa,Ana Torres,Q2,77930,10,0.2
+Rosario,Electrónica,Lucía Paz,Q2,33380,19,0.05
+Buenos Aires,Electrónica,María López,Q3,31035,9,0.05
+Buenos Aires,Deportes,Luis Gómez,Q2,35620,13,0.0
+Buenos Aires,Hogar,Pedro Ruiz,Q2,122360,7,0.05
